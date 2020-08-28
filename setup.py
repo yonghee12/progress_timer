@@ -7,7 +7,7 @@ setuptools.setup(
     author="Yonghee Cheon",
     author_email="yonghee.cheon@gmail.com",
     description="A Python module which prints elapsed time and estimated time left with accordance to percentage",
-    long_description=open('README.md').read(),
+    # long_description=open('README.md').read(),
     url="https://github.com/yonghee12/progress_timer",
     packages=setuptools.find_packages(),
     classifiers=[
